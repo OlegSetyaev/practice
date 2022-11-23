@@ -36,6 +36,7 @@ int[] Reverse(int[] array)
     }
 return newArray;
 }
+
 int[] array = FillArray(10);
 PrintArray(array);
 array = Reverse(array);
